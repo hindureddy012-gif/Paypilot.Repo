@@ -1,0 +1,2 @@
+# Paypilot.Repo
+Squad project
